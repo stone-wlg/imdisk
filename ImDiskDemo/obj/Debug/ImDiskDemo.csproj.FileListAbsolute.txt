@@ -1,0 +1,6 @@
+c:\users\stone.wangl\documents\visual studio 2012\Projects\ImDiskDemo\ImDiskDemo\bin\Debug\ImDiskDemo.dll
+c:\users\stone.wangl\documents\visual studio 2012\Projects\ImDiskDemo\ImDiskDemo\bin\Debug\ImDiskDemo.pdb
+c:\users\stone.wangl\documents\visual studio 2012\Projects\ImDiskDemo\ImDiskDemo\obj\Debug\ImDiskDemo.csprojResolveAssemblyReference.cache
+c:\users\stone.wangl\documents\visual studio 2012\Projects\ImDiskDemo\ImDiskDemo\obj\Debug\ImDiskDemo.dll
+c:\users\stone.wangl\documents\visual studio 2012\Projects\ImDiskDemo\ImDiskDemo\obj\Debug\ImDiskDemo.pdb
+C:\Users\stone.wangl\documents\visual studio 2012\Projects\ImDiskDemo\ImDiskDemo\bin\Debug\ImDiskDemo.dll.config
