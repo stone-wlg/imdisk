@@ -54,11 +54,13 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="Imp\RamDisk.cs" />
+    <Compile Include="Imp\DriveManager.cs" />
+    <Compile Include="Imp\ImDiskWrapper.cs" />
+    <Compile Include="Imp\RamDrive.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitTest2.cs" />
-    <Compile Include="RamDiskTest.cs" />
+    <Compile Include="RamDriveTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

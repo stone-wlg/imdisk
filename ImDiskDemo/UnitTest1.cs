@@ -42,7 +42,14 @@ namespace ImDiskDemo
         [TestMethod]
         public void LoadDriver()
         {
-            //LTR.IO.ImDisk.ImDiskAPI.;
+            try
+            {
+                LTR.IO.ImDisk.ImDiskAPI.LoadDriver();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
         [TestMethod]

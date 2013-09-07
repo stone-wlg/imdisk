@@ -17,5 +17,11 @@ namespace ImDiskDemo
                 Console.WriteLine(drive.Name);
             }
         }
+
+        [TestMethod]
+        public void CreateDrive()
+        {
+
+        }
     }
 }
